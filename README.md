@@ -63,3 +63,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Chamoda789UOK/Chamoda789UOK/snake-output/snake.svg" alt="Snake animation" />
+
+###
